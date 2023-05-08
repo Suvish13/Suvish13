@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Suvish13
+- I’m interested in learning a skills in computer programming
+- I’m currently pursuing M.Tech., Geological Technology and Geoinformatics
+-  
